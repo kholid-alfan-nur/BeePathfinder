@@ -1,0 +1,30 @@
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.csprojResolveAssemblyReference.cache
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\MainWindow.g.cs
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\App.g.cs
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder_MarkupCompile.cache
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder_MarkupCompile.lref
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\bin\Debug\BeePathfinder.exe.config
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\bin\Debug\BeePathfinder.exe
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\bin\Debug\BeePathfinder.pdb
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\MainWindow.baml
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.g.resources
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.Properties.Resources.resources
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.csproj.GenerateResource.Cache
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.csproj.CoreCompileInputs.cache
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.exe
+N:\Conestoga College\CAD\Semester 1\Software Development\Assignments\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.pdb
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\bin\Debug\BeePathfinder.exe.config
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\bin\Debug\BeePathfinder.exe
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\bin\Debug\BeePathfinder.pdb
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.csprojAssemblyReference.cache
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\MainWindow.g.cs
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\App.g.cs
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder_MarkupCompile.cache
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder_MarkupCompile.lref
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\MainWindow.baml
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.g.resources
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.Properties.Resources.resources
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.csproj.GenerateResource.cache
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.csproj.CoreCompileInputs.cache
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.exe
+C:\Users\knur8\Documents\Documents\Conestoga Files\Classes\Software Developement\FinalAssignment\finalAssignment_GROUP4\FinalAssignment\BeePathfinder\BeePathfinder\obj\Debug\BeePathfinder.pdb
